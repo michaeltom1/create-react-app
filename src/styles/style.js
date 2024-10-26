@@ -39,7 +39,7 @@ export const navStyle = `
 }
 nav {
   background-color: black;
-  width: 80%;
+  width: 0%;
   margin: 0 auto;
 }
 `;

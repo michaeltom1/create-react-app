@@ -1,8 +1,8 @@
-import Navabar from "./components/Navabar";
+import Layout from "./components/Layout";
 function App() {
   return (
     <>
-      <Navabar />
+      <Layout />
     </>
   );
 }
